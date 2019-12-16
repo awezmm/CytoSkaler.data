@@ -11,6 +11,5 @@ CytoSkaler uses machine learning to generate segmentations of subcellular and wh
 CytoSkaler takes in one or multiple image sets. An image set is a collection of separate channels focused on the same area.
 An example of an image set is below:
 
-![alt text]
-(https://github.com/awezmm/CytoSkaler/blob/master/ImagesForReadme/exampleinput1.png)
+![alt text](https://github.com/awezmm/CytoSkaler/blob/master/ImagesForReadme/exampleinput1.png)
 

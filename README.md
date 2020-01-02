@@ -2,7 +2,7 @@ Data for building Cytoskaler (testing, training, validation image sets) can be f
  
 The DAG networks are in the form of .mat files and can be found in /networks folder.
 
-Images used for analysis can be found in the /images folder.
+Images used for analysis can be found in the /data/analysis folder.
 
 
 

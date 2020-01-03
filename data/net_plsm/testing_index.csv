@@ -1,23 +1,23 @@
-﻿part b_5.2 PB4 2_ch00_4.tif,Label_4.png
-part b_5.2 PB4 8_ch00_1.tif,Label_18.png
-part b_6.2 naive 8 8_ch00_5.tif,Label_85.png
-part b_8.3 An 49 3_ch00_10.tif,Label_222.png
-part b_6.2 naive 8 6_ch00_6.tif,Label_75.png
-part b_8.1 An 43 10_ch00_2.tif,Label_191.png
-part b_5.2 PB4 8_ch00_7.tif,Label_24.png
-part b_6.3 naive 10 6_ch00_4.tif,Label_95.png
-part b_8.2 An 48 5_ch00_5.tif,Label_206.png
-part b_7.2 naive 22 2_ch00_1.tif,Label_167.png
-part b_7.1 naive 20 4_ch00_9.tif,Label_154.png
-part b_5.4 Ki4-5 4_ch00_1.tif,Label_39.png
-part b_7.2 naive 22 2_ch00_2.tif,Label_168.png
-part b_5.2 PB4 7_ch00_1.tif,Label_13.png
-part b_5.2 PB4 2_ch00_9.tif,Label_9.png
-part b_6.2 naive 8 2_ch00_4.tif,Label_66.png
-part b_5.2 PB4 8_ch00_3.tif,Label_20.png
-part b_6.2 naive 8 1_ch00_7.tif,Label_57.png
-part b_6.4 naive 17 1_ch00_10.tif,Label_122.png
-part b_5.2 PB4 2_ch00_10.tif,Label_10.png
-part b_5.2 PB4 2_ch00_12.tif,Label_12.png
-part b_8.3 An 49 6_ch00_2.tif,Label_226.png
-part b_6.4 naive 17 1_ch00_6.tif,Label_118.png
+﻿Image4.tif,Label_4.png
+Image18.tif,Label_18.png
+Image85.tif,Label_85.png
+Image222.tif,Label_222.png
+Image75.tif,Label_75.png
+Image191.tif,Label_191.png
+Image24.tif,Label_24.png
+Image95.tif,Label_95.png
+Image206.tif,Label_206.png
+Image167.tif,Label_167.png
+Image154.tif,Label_154.png
+Image39.tif,Label_39.png
+Image168.tif,Label_168.png
+Image13.tif,Label_13.png
+Image9.tif,Label_9.png
+Image66.tif,Label_66.png
+Image20.tif,Label_20.png
+Image57.tif,Label_57.png
+Image122.tif,Label_122.png
+Image10.tif,Label_10.png
+Image12.tif,Label_12.png
+Image226.tif,Label_226.png
+Image118.tif,Label_118.png
